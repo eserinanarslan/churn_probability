@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "5eae6d9a-7750-49bc-a7d7-4a0dbdc70eda",
+		"name": "Churn_Probablity",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get_all_results",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get_all_unique_results",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "search_userId_churn_probablity",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "search_unique_userId_churn_probablity",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
