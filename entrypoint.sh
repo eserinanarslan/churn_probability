@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 get_service.py
+python3 get_service_opioid.py

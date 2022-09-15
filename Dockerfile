@@ -7,7 +7,7 @@ ADD . /code/
 
 WORKDIR /code
 
-CMD ["/code/get_service.py"]
+CMD ["/code/get_service_opioid.py"]
 ENTRYPOINT ["python"]
 
 #ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
